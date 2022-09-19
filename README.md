@@ -1,19 +1,11 @@
-### Hi there, I am Yihui Wang.👋
+### Hi there, I am Yihui Wang. :simple_smile:
 
-<!--
-**yhwang0123/yhwang0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently looking for a job as data analyst.
-- 🌱 I’m currently learning at BeCode.org
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 I’m currently looking for a job as a Data Analyst.
+- 🥅 I’m currently following Marketing Analytics with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
+- 🚀 Heroku API deployment  @ [Customer Clustering](http://credit-card-customer.herokuapp.com/)
+- 🛤️ Recent completed project:@ [NLP](https://github.com/yhwang0123/document_classification) @ [Computer Vision](https://github.com/yhwang0123/Computer_Vision_Crosswalk_Detection) @ [Customer Clustering](https://github.com/yhwang0123/customer_clustering) @ [Revenue Forecast](https://github.com/yhwang0123/revenue_forecast)
 - 📫 How to reach me: @ [Yihui's Email](mailto:yihuiwang123@gmail.com)
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I love music and travelling.
--->
+- ⚡ Fun fact: I love classical music and travelling.
 
 ### Connect with me:
 
