@@ -1,4 +1,5 @@
-### Hi there, I am Yihui Wang. :simple_smile:
+### Hi there, I am Yihui Wang. 😊
+
 
 - 🌱 I’m currently looking for a job as a Data Analyst.
 - 🥅 I’m currently following Marketing Analytics with Python track. @ [datacamp.com](https://www.datacamp.com/profile/adamtky)
