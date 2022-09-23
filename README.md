@@ -2,7 +2,7 @@
 
 
 - 🌱 I’m currently looking for a job as a Data Analyst.
-- 🛤️ Recent completed project:@ [NLP](https://github.com/yhwang0123/document_classification) @ [Computer Vision](https://github.com/yhwang0123/Computer_Vision_Crosswalk_Detection) @ [Customer Clustering](https://github.com/yhwang0123/customer_clustering) @ [Revenue Forecast](https://github.com/yhwang0123/revenue_forecast) @ [3D House plotting](https://github.com/yhwang0123/3D_House_Project)
+- 🛤️ Recent completed project:@ [Multi-class text classification](https://github.com/yhwang0123/document_classification) @ [Crosswalk detection](https://github.com/yhwang0123/Computer_Vision_Crosswalk_Detection) @ [Churn Customer Clustering](https://github.com/yhwang0123/customer_clustering) @ [Revenue Predict](https://github.com/yhwang0123/revenue_forecast) @ [3D House plotting](https://github.com/yhwang0123/3D_House_Project)
 - 🚀 Heroku API deployment  @ [Customer Clustering](http://credit-card-customer.herokuapp.com/)
 - 📫 How to reach me: @ [Yihui's Email](mailto:yihuiwang123@gmail.com)
 - ⚡ Fun fact: I love classical music and travelling.
