@@ -1,7 +1,7 @@
 ### Hi there, I am Yihui Wang. 😊
 
 
-- 🌱 I’m currently looking for a job as a Data Analyst.
+- 🌱 I’m currently looking for a job as a Data Scientist.
 - 🛤️ Recent completed project:@ [Multi-class text classification](https://github.com/yhwang0123/document_classification) @ [Crosswalk detection](https://github.com/yhwang0123/Computer_Vision_Crosswalk_Detection) @ [Churn Customer Clustering](https://github.com/yhwang0123/customer_clustering) @ [Revenue Predict](https://github.com/yhwang0123/revenue_forecast) @ [3D House plotting](https://github.com/yhwang0123/3D_House_Project)
 - 🚀 Heroku API deployment  @ [Customer Clustering](http://credit-card-customer.herokuapp.com/)
 - 📫 How to reach me: @ [Yihui's Email](mailto:yihuiwang123@gmail.com)
